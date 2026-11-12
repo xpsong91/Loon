@@ -1,5 +1,5 @@
 #!name=LocalDev
-#!desc=Reflects the on-device developer-services address required by WrapPin.
+#!desc=Reflects the on-device developer-services address required.
 #!loon_version=3.5.3(1007)
 
 [General]
